@@ -1,4 +1,3 @@
-### 🎯 Resumen Ejecutivo
 
 Soy un estudiante de ingenieria en informatica con un perfil integral, especializado en **Arquitectura Cloud (AWS/Azure)** y **DevOps**. Combino el desarrollo Full-Stack  con el análisis de **Big Data**, todo esto con una base integra de ciberseguridad. Mi experiencia está validada por múltiples certificaciones que aseguran mi capacidad para diseñar, asegurar y escalar soluciones tecnológicas complejas.
 
