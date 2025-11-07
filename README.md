@@ -1,8 +1,39 @@
-# 💫 About Me:
-# ¡Hola! Soy Benjamín, Estudiante de Ingenieria en informatica
+### 🎯 Resumen Ejecutivo
 
+Soy un estudiante de ingenieria en informatica con un perfil integral, especializado en **Arquitectura Cloud (AWS/Azure)** y **DevOps**. Combino el desarrollo Full-Stack  con el análisis de **Big Data**, todo esto con una base integra de ciberseguridad. Mi experiencia está validada por múltiples certificaciones que aseguran mi capacidad para diseñar, asegurar y escalar soluciones tecnológicas complejas.
 
-🚀<br><br>### 🎯 Resumen Ejecutivo<br><br>Soy un Ingeniero en Informática con un perfil integral, especializado en **Arquitectura Cloud (AWS/Azure)** y **DevOps**. Combino el desarrollo Full-Stack (**Python, JavaScript**) con la **automatización de infraestructura** (**Terraform/K8s**) y el análisis de **Big Data**. Mi experiencia está validada por múltiples certificaciones que aseguran mi capacidad para diseñar, asegurar y escalar soluciones tecnológicas complejas.<br><br>---<br><br>### 🏆 Acreditación y Fundamentos Académicos<br><br>Mi conocimiento se cimienta en la **Ingeniería en Informática de Duoc UC**, lo que me proporcionó una base sólida en:<br><br>* **Algoritmos y Estructura de Datos:** Optimización de procesos y eficiencia de código.<br>* **Análisis de Sistemas:** Diseño y modelado de arquitecturas de software.<br>* **Bases de Datos Relacionales y NoSQL:** Fundamentos teóricos en persistencia y consultas.<br>* **Gestión de Proyectos:** Aplicación práctica de metodologías SCRUM/Agile.<br><br>---<br><br>### 🏅 Certificaciones de Alto Impacto<br><br>Mis certificaciones validan mi *expertise* en las áreas más demandadas por la industria:<br><br>| Dominio | Certificación | Foco en la Industria |<br>| :--- | :--- | :--- |<br>| **Cloud Computing** | **AWS Certified Cloud Practitioner** & **Azure Fundamentals** | Gestión y despliegue de soluciones en la nube. |<br>| **DevOps & Infraestructura** | **Red Hat Certified System Administrator (RHCSA)** & **DevOps Essentials (DEPC™)** | Administración avanzada de Linux y automatización de pipelines. |<br>| **Ingeniería de Datos** | **Big Data Professional (BDPC™)** & **Data Storytelling (DSTPC™)** | Procesamiento a escala y comunicación estratégica de datos. |<br>| **Ciberseguridad** | **Cisco CCNA** & **Google Cybersecurity Professional** | Diseño de redes, seguridad perimetral y hardening de sistemas. |<br><br>---<br><br>### 🛠️ Stack Tecnológico Clave<br><br>* **Cloud & IaC:** `AWS`, `Azure`, `Terraform`, `Kubernetes`, `Docker`.<br>* **Lenguajes:** `Python` (Pandas/Spark), `JavaScript/TypeScript`, `SQL/T-SQL`.<br>* **Backend & DB:** `Node.js (Express)`, `PostgreSQL`, `MongoDB`, `Bash Scripting`.<br>* **DevOps & Automatización:** `CI/CD (GitHub Actions)`, `Git`, `SCRUM`.
+---
+
+### 🏆 Acreditación y Fundamentos Académicos
+
+Mi conocimiento se cimienta en la **Ingeniería en Informática de Duoc UC**, lo que me proporcionó una base sólida en:
+
+* **Algoritmos y Estructura de Datos:** Optimización de procesos y eficiencia de código.
+* **Análisis de Sistemas:** Diseño y modelado de arquitecturas de software.
+* **Bases de Datos Relacionales y NoSQL:** Fundamentos teóricos en persistencia y consultas.
+* **Gestión de Proyectos:** Aplicación práctica de metodologías SCRUM/Agile.
+
+---
+
+### 🏅 Certificaciones de Alto Impacto
+
+Mis certificaciones validan mi *expertise* en las áreas más demandadas por la industria:
+
+| Dominio | Certificación | Foco en la Industria |
+| :--- | :--- | :--- |
+| **Cloud Computing** | **AWS Certified Cloud Practitioner** & **Azure Fundamentals** | Gestión y despliegue de soluciones en la nube. |
+| **DevOps & Infraestructura** | **Red Hat Certified System Administrator (RHCSA)** & **DevOps Essentials (DEPC™)** | Administración avanzada de Linux y automatización de pipelines. |
+| **Ingeniería de Datos** | **Big Data Professional (BDPC™)** & **Data Storytelling (DSTPC™)** | Procesamiento a escala y comunicación estratégica de datos. |
+| **Ciberseguridad** | **Cisco CCNA** & **Google Cybersecurity Professional** | Diseño de redes, seguridad perimetral y hardening de sistemas. |
+
+---
+
+### 🛠️ Stack Tecnológico Clave
+
+* **Cloud & IaC:** `AWS`, `Azure`, `Terraform`, `Kubernetes`, `Docker`.
+* **Lenguajes:** `Python` (Pandas/Spark), `JavaScript/TypeScript`, `SQL/T-SQL`.
+* **Backend & DB:** `Node.js (Express)`, `PostgreSQL`, `MongoDB`, `Bash Scripting`.
+* **DevOps & Automatización:** `CI/CD (GitHub Actions)`, `Git`, `SCRUM`.
 
 
 ## 🌐 Socials:
