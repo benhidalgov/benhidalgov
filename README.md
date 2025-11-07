@@ -30,8 +30,7 @@ Mis certificaciones validan mi *expertise* en las áreas más demandadas por la 
 ### 🛠️ Stack Tecnológico Clave
 
 * **Cloud & IaC:** `AWS`, `Azure`, `Terraform`, `Kubernetes`, `Docker`.
-* **Lenguajes:** `Python` (Pandas/Spark), `JavaScript/TypeScript`, `SQL/T-SQL`.
-* **Backend & DB:** `Node.js (Express)`, `PostgreSQL`, `MongoDB`, `Bash Scripting`.
+* **Lenguajes:** `Python` (Pandas/Spark), `JavaScript/TypeScript`, `SQL/T-SQL`, **`Bash / Shell Scripting`**, **`Dart / Flutter`**.* **Backend & DB:** `Node.js (Express)`, `PostgreSQL`, `MongoDB`, `Bash Scripting`
 * **DevOps & Automatización:** `CI/CD (GitHub Actions)`, `Git`, `SCRUM`.
 
 
